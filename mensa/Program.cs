@@ -57,6 +57,7 @@ namespace mensa
             Console.ReadLine();
             Console.WriteLine("github_test0");
             Console.WriteLine("github_test1");
+            Console.WriteLine("github_test2");
         }
     }
 }
